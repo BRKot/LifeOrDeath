@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E190763A-AD17-46FE-9FB4-44CFF3622517"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC07A5F6-20C3-493B-B6A9-44C5B37F2807"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeOrDeath/MainPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "configure(cell:for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC07A5F6-20C3-493B-B6A9-44C5B37F2807 - 5572b66c1b7073e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LifeOrDeath.MainPresenter.configure(cell: LifeOrDeath.RoundCell, for: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "LifeOrDeath"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/databriz/Documents/GantChart/LifeOrDeath/LifeOrDeath/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "DC07A5F6-20C3-493B-B6A9-44C5B37F2807 - 5572b66c1b7073e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LifeOrDeath.MainPresenter.configure(cell: LifeOrDeath.RoundCell, for: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "LifeOrDeath"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/databriz/Documents/GantChart/LifeOrDeath/LifeOrDeath/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "DC07A5F6-20C3-493B-B6A9-44C5B37F2807 - 5572b66c1b7073e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LifeOrDeath.MainPresenter.configure(cell: LifeOrDeath.RoundCell, for: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "LifeOrDeath"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/databriz/Documents/GantChart/LifeOrDeath/LifeOrDeath/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7E31FC7-71DD-4FAA-9141-9A7D7801E6F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LifeOrDeath/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
